@@ -1,0 +1,45 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "&#128293; О мероприятии",
+        "payload": "{\"button\": \"1\"}"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "&#128118; Возраст",
+          "payload": "{\"button\": \"1\"}"
+        },
+        "color": "positive"
+      }],
+    [{
+        "action": {
+          "type": "text",
+          "label": "&#128176; Цена",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "&#128197; Расписание",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+      }],
+    [{
+       "action": {
+          "type": "text",
+          "label": "Хочу записаться&#128165;\t",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+    }]
+  ]
+}

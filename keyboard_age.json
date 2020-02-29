@@ -1,0 +1,29 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "11-13 лет",
+        "payload": "{\"button\": \"1\"}"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "14-16 лет",
+          "payload": "{\"button\": \"1\"}"
+        },
+        "color": "positive"
+      }],
+    [{
+        "action": {
+          "type": "text",
+          "label": "&#11013; Назад",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "default"
+      }]
+  ]
+}
