@@ -1,2 +1,2 @@
-# Chatbot for vk and instagram with Python
+# Chatbot for vk and with Python
 *Python 3.6*
