@@ -12,3 +12,6 @@
 
 To run the bot you need to get access token of your vk public - create access token in the settings (enable access to messages), copy your token and paste it in the config.py. Then go to "Long Poll API" on the same page and activate it (API version: 5.50). Check page "Messages -> Settings for the bot".
 Run server_manager.py and send message "Start".
+
+## Manual
+Подробная инструкция по разработке чат-бота находится в Jupyter Notebook chatbot-lp.ipynb (https://github.com/dariabokareva/python-vk-chatbot/chatbot-lp.ipynb)
