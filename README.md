@@ -14,4 +14,4 @@ To run the bot you need to get access token of your vk public - create access to
 Run server_manager.py and send message "Start".
 
 ## Manual
-Подробная инструкция по разработке чат-бота находится в Jupyter Notebook chatbot-lp.ipynb (https://github.com/dariabokareva/python-vk-chatbot/chatbot-lp.ipynb)
+Подробная инструкция по разработке чат-бота находится в Jupyter Notebook **chatbot-lp.ipynb** (https://github.com/dariabokareva/python-vk-chatbot/blob/master/chatbot-lp.ipynb)
